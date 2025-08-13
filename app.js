@@ -4,7 +4,7 @@ function add (a,b){
 
 console.log(add(4,6))
 
-function sun(a, b){
+function sub(a, b){
     return a-b;
 }
 
